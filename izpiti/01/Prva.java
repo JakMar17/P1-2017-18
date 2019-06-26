@@ -1,5 +1,3 @@
-
-// 63170196
 // (na konec prej"snje vrstice zapi"site va"so vpisno "stevilko)
 
 public class Prva {
