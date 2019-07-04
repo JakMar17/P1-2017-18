@@ -1,2 +1,6 @@
 # P1-2017-18
-Programiranje 1 (Java) v študijskem letu 2017/18, Fakulteta za računalništvo in informatiko Univerza v Ljubljani
+
+Tukaj najdete vsa navodila, testne primere in nekje tudi (delne) rešitve za vse domače naloge, vaje in izpite iz študijskega leta 2017/18.
+
+## Sodelovanje
+V kolikor imate kje shranjene svoje rešitve, ki so ali pa niso še objavljene v tem repozirtoriju, ste vabljeni, da jih dodate. Lahko mi pišete ali naredite svoj fork.
